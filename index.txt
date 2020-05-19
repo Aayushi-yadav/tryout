@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Learning git
 =======
 FA3
 >>>>>>> 9998b862689b5616ec88287ad298d29c100ced40
+=======
+FA3-GIT
+>>>>>>> b6d016f... changing index to GIT
